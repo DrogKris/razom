@@ -1,0 +1,11 @@
+{
+  "name": "Events Mini App",
+  "description": "Discover and join events in your community",
+  "icon": "calendar",
+  "homeUrl": "https://yourdomain.com",
+  "imageUrl": "https://yourdomain.com/preview.png",
+  "splashImageUrl": "https://yourdomain.com/splash.png",
+  "splashBackgroundColor": "#007bff",
+  "version": "1.0.0",
+  "apiVersion": "1.0.0"
+}
